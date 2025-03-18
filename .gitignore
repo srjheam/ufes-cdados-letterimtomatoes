@@ -1,0 +1,6 @@
+data/**/*.csv
+data/**/*.zip
+data/**/*.tar.gz
+data/**/*.npy
+.venv
+*.db
